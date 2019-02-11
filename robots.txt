@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eutaugum.libccv.org/sitemap.xml
